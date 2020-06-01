@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Callen Trail`,
+    title: `callen trail`,
     author: {
       name: `Callen Trail`,
-      summary: `is da man.`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: ``,
+      github: `callentrail`,
     },
   },
   plugins: [
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/fire.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
