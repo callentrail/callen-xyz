@@ -5,8 +5,8 @@ module.exports = {
       name: `Callen Trail`,
       summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Personal blog site of Callen Trail`,
+    siteUrl: `https://callen.xyz/`,
     social: {
       github: `callentrail`,
     },
@@ -61,8 +61,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Callen Trail's Blog`,
+        short_name: `Callen`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
